@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_site=self.webpackChunkpersonal_site||[]).push([[230],{230:(e,s,a)=>{e.exports=a.p+"static/media/postdoc-ad.3af58e7d22f8487f8292.md"}}]);
